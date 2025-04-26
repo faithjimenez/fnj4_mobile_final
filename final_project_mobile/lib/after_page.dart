@@ -25,7 +25,7 @@ class _AfterPageState extends State<AfterPage> {
           children: [
             const Text(
               "All Done! Want to Study Again?",
-              style: TextStyle(fontSize: 25, fontWeight: FontWeight.w800, color: Colors.black),
+              style: TextStyle(fontSize: 20, fontWeight: FontWeight.w800, color: Colors.black),
             ),
             const SizedBox(height: 32),
             FilledButton(

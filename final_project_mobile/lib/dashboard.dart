@@ -51,7 +51,7 @@ class Dashboard extends StatelessWidget {
                 },
               ),
               FlashcardDeckTile(
-                title: "Art History",
+                title: "Art Hist.",
                 onTap: () {
                   Navigator.push(
                     context,

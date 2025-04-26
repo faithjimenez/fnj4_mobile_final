@@ -52,7 +52,7 @@ class _ArtPageState extends State<ArtPage> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   const Text(
-                    "Art History",
+                    "Art Hist.",
                     style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold, color:  Color.fromARGB(255, 40, 160, 216)),
                   ),
                   const SizedBox(height: 16),
